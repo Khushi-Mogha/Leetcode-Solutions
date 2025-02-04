@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0832-binary-tree-pruning](https://github.com/Khushi-Mogha/Leetcode-Solutions/tree/master/0832-binary-tree-pruning) |
 | [1396-count-servers-that-communicate](https://github.com/Khushi-Mogha/Leetcode-Solutions/tree/master/1396-count-servers-that-communicate) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Khushi-Mogha/Leetcode-Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Breadth-First Search
@@ -44,4 +45,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/Khushi-Mogha/Leetcode-Solutions/tree/master/1396-count-servers-that-communicate) |
+## Tree
+|  |
+| ------- |
+| [0832-binary-tree-pruning](https://github.com/Khushi-Mogha/Leetcode-Solutions/tree/master/0832-binary-tree-pruning) |
+## Binary Tree
+|  |
+| ------- |
+| [0832-binary-tree-pruning](https://github.com/Khushi-Mogha/Leetcode-Solutions/tree/master/0832-binary-tree-pruning) |
 <!---LeetCode Topics End-->
